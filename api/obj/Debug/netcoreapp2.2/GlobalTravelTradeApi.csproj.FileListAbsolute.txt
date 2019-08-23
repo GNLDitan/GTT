@@ -1,0 +1,14 @@
+C:\NewProject\GlobalTravelTrade\api\bin\Debug\netcoreapp2.2\GlobalTravelTradeApi.deps.json
+C:\NewProject\GlobalTravelTrade\api\bin\Debug\netcoreapp2.2\GlobalTravelTradeApi.runtimeconfig.json
+C:\NewProject\GlobalTravelTrade\api\bin\Debug\netcoreapp2.2\GlobalTravelTradeApi.runtimeconfig.dev.json
+C:\NewProject\GlobalTravelTrade\api\bin\Debug\netcoreapp2.2\GlobalTravelTradeApi.dll
+C:\NewProject\GlobalTravelTrade\api\bin\Debug\netcoreapp2.2\GlobalTravelTradeApi.pdb
+C:\NewProject\GlobalTravelTrade\api\obj\Debug\netcoreapp2.2\GlobalTravelTradeApi.csprojAssemblyReference.cache
+C:\NewProject\GlobalTravelTrade\api\obj\Debug\netcoreapp2.2\GlobalTravelTradeApi.csproj.CoreCompileInputs.cache
+C:\NewProject\GlobalTravelTrade\api\obj\Debug\netcoreapp2.2\GlobalTravelTradeApi.RazorAssemblyInfo.cache
+C:\NewProject\GlobalTravelTrade\api\obj\Debug\netcoreapp2.2\GlobalTravelTradeApi.RazorAssemblyInfo.cs
+C:\NewProject\GlobalTravelTrade\api\obj\Debug\netcoreapp2.2\GlobalTravelTradeApi.AssemblyInfoInputs.cache
+C:\NewProject\GlobalTravelTrade\api\obj\Debug\netcoreapp2.2\GlobalTravelTradeApi.AssemblyInfo.cs
+C:\NewProject\GlobalTravelTrade\api\obj\Debug\netcoreapp2.2\GlobalTravelTradeApi.RazorTargetAssemblyInfo.cache
+C:\NewProject\GlobalTravelTrade\api\obj\Debug\netcoreapp2.2\GlobalTravelTradeApi.dll
+C:\NewProject\GlobalTravelTrade\api\obj\Debug\netcoreapp2.2\GlobalTravelTradeApi.pdb
